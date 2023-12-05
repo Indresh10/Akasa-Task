@@ -25,11 +25,10 @@ The Blogging Platform is a Django-based web application that enables users to re
 ### Installation Steps
 
 1. Clone the repository: `git clone https://github.com/Indresh10/Akasa-Task.git`
-2. Checkout the branch: `git checkout local`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Navigate to the project directory: `cd blogger`
-5. Apply migrations: `python manage.py migrate`
-6. Run the development server: `python manage.py runserver`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Navigate to the project directory: `cd blogger`
+4. Apply migrations: `python manage.py migrate`
+5. Run the development server: `python manage.py runserver`
 
 ## User Registration and Authentication
 
